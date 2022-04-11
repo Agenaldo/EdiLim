@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <adxuntos>ACAI2.jpg,ABACATE 2.jpg,ABACATE.jpg,ABACAXI.jpg,ABOBRINHA.jpeg,AÇAÍ.JPG,ACAI1.jpg,ACAI2.jpg,ACAI3.jpg,ACEROLA.JPG,ACEROLA2.jpg,ani_snoopy.gif,ASSAI 2.jpg,ASSAÍ.jpg,ASSAI3.jpg,BANANA.jpg,BIRIBA.jpg,BIRIBÁ.JPG,CAJU.jpg,CAJU1.jpg,chuchu.jpg,FRAÇÃO 1.JPG,framboesa.jpg,FRANBOESA2.jpg,FRUTAS 2.JPG,FRUTAS 21.jpg,FRUTAS 3.JPG,FRUTAS E LEGUMES 2.jpg,FRUTAS E LEGUMES 3.jpg,FRUTAS E LEGUMES.jpg,FRUTAS E LEGUMES.jpg,FRUTAS.JPG,FRUTAS_E_LEGUMES3.jpg,FRUTAS2.jpg,FRUTAS21.jpg,GOIABA.jpg,kaqui.jpg,laranja.jpg,PEPINO.jpg,REPOLHO.jpg,SALADA 1 DE FRUTAS.jpg,SALADA DE FRUTAS 2.jpg,SALADA DE FRUTAS.JPG,SALADA2_FRUTA.jpg,SALADA3FRUTA.jpg,SALADAS1_DE_FRUTAS.jpg,TOMATE.jpg,APLAUSOS 2.mp3,Crash with glass.mp3</adxuntos>
+        <corfondo>B1FEB6</corfondo>
+        <corbanda>CAAAD5</corbanda>
+        <cornavega>00FF40</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>ALIMENTOS</titulo>
+        <subtitulo>JOGO DO 2º ANO</subtitulo>
+        <autor>AMF</autor>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="APLAUSOS_2.mp3" modo="1" >ACERTOU, MUITO BOM!</correcto>
+        <incorrecto son="Crash_with_glass.mp3" modo="1" >ERROU, QUE PENA!</incorrecto>
+        <caracteres>Á À Ã Â É Ê Í Ó Ô Õ Ú</caracteres>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>14</tipo>
+              <peza imaxe="ABACATE.jpg" texto="ABACATE" son="">ABACATE.jpg</peza>
+              <peza imaxe="ABACAXI.jpg" texto="ABACAXI" son="">ABACAXI.jpg</peza>
+              <peza imaxe="BANANA.jpg" texto="BANANA" son="">BANANA.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>13</tipo>
+              <cabeceira>RELACIONE AS PALAVRAS ENTRE MAIÚSCULAS E MINÚSCULAS</cabeceira>
+              <unir texto="ABOBÓBORA">abóbora</unir>
+              <unir texto="MELANCIA">melancia</unir>
+              <unir texto="MAMÃO">mamão</unir>
+              <unir texto="MAÇÃ">maçã</unir>
+              <unir texto="PÊRA">pêra</unir>
+        </paxina>
+        <paxina id="3" >
+              <tipo>50</tipo>
+              <cabeceira>PUXE AS LETRAS PARA ESCREVER OS NOMES:</cabeceira>
+              <peza imaxe="kaqui.jpg"  son="">CAQUI</peza>
+              <peza imaxe="PEPINO.jpg"  son="">PEPINO</peza>
+              <peza imaxe="TOMATE.jpg"  son="">TOMATE</peza>
+        </paxina>
+        <paxina id="4" >
+              <tipo>7</tipo>
+              <cabeceira>SEPARE AS FRUTAS DOS LEGUMES:</cabeceira>
+              <caixa1>FRUTAS</caixa1>
+              <caixa2>LEGUMES</caixa2>
+              <mini caixa="1">ABACAXI.jpg</mini>
+              <mini caixa="2">PEPINO.jpg</mini>
+              <mini caixa="1">BANANA.jpg</mini>
+              <mini caixa="2">chuchu.jpg</mini>
+              <mini caixa="1">TOMATE.jpg</mini>
+              <mini caixa="2">ABOBRINHA.jpeg</mini>
+              <cfondo>808000</cfondo>
+              <cadro>1</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>6</tipo>
+              <cabeceira>CLASSIFIQUE OS ITENS ABAIXO EM FRUTAS OU LEGUMES</cabeceira>
+              <nome caixa="2">TOMATE</nome>
+              <nome caixa="1">REPOLHO</nome>
+              <nome caixa="2">LARANJA</nome>
+              <nome caixa="2">LIMÃO</nome>
+              <nome caixa="1">BETERRABA</nome>
+              <nome caixa="2">MIXIRICA</nome>
+              <caixa1>LEGUMES</caixa1>
+              <caixa2>FRUTAS</caixa2>
+              <modo></modo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>47</tipo>
+              <cabeceira>COLOQUE NAS CAIXAS AS PARTES QUE FORMA O NOME DE CADA ITEM:</cabeceira>
+              <caixa1>TOMA,REPOL,PI ,MARA</caixa1>
+              <nome caixa="1">TE</nome>
+              <nome caixa="2">HO</nome>
+              <nome caixa="3">MENTÃO</nome>
+              <nome caixa="4">CUJÁ</nome>
+        </paxina>
+        <paxina id="7" >
+              <tipo>18</tipo>
+              <cabeceira>COMPLETE COM A SÍLABA QUE FALTA:</cabeceira>
+              <modo>2</modo>
+              <completa ant="MARA" post="JA">CU</completa>
+              <completa ant="MO" post="GO">RAN</completa>
+              <completa ant="PE" post="NO">PI</completa>
+              <completa ant="A" post="XA">MEI</completa>
+              <completa ant="ME" post="CIA">LAN</completa>
+              <completa ant="PÊS" post="GO">SE</completa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>18</tipo>
+              <cabeceira>COMPLETE COM A SÍLABA QUE FALTA:</cabeceira>
+              <modo>3</modo>
+              <completa ant="MARA" post="JA">CU</completa>
+              <completa ant="MO" post="GO">RAN</completa>
+              <completa ant="PE" post="NO">PI</completa>
+              <completa ant="A" post="XA">MEI</completa>
+              <completa ant="ME" post="CIA">LAN</completa>
+              <completa ant="PÊS" post="GO">SE</completa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>18</tipo>
+              <cabeceira>COMPLETE COM A SÍLABA QUE FALTA:</cabeceira>
+              <modo>1</modo>
+              <completa ant="                           MARA" post="JA">CU</completa>
+              <completa ant="                              MO" post="GO                              ">RAN</completa>
+              <completa ant="                               PE" post="NO                             ">PI</completa>
+              <completa ant="                                 A" post="XA                              ">MEI</completa>
+              <completa ant="                               ME" post="CIA                             ">LAN</completa>
+              <completa ant="                             PÊS" post="GO                              ">SE</completa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>45</tipo>
+              <cabeceira>O QUE É O QUE É? TEM COROA E NÃO É REI TEM ESCAMAS E NÃO É PEIXE?</cabeceira>
+            <forma>0</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[ABACAXI]]></texto>
+        </paxina>
+        <paxina id="11" >
+              <tipo>45</tipo>
+              <cabeceira>O QUE É O QUE É? NASCE NA AGUA NA AGUA CRESCE COLOCA NA AGUA E DESAPARECE?</cabeceira>
+            <forma>0</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[SAL]]></texto>
+        </paxina>
+        <paxina id="12" >
+              <tipo>45</tipo>
+              <cabeceira>SOU MARROM POR FORA BRANCO POR DENTRO E SOU MUITO DURO. QUEM SOU EU?</cabeceira>
+            <forma>0</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[COCO]]></texto>
+        </paxina>
+        <paxina id="13" >
+              <tipo>45</tipo>
+              <cabeceira>VESTIDA DE AMARELO NO CACHO ME CRIEI E ATÉ O MACACO ENCANTEI. QUEM SOU EU?</cabeceira>
+            <forma>0</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[BANANA]]></texto>
+        </paxina>
+        <paxina id="14" >
+              <tipo>45</tipo>
+              <cabeceira>QUEM SOU EU? SOU VERDE POR FORA, VERMELHO POR DENTRO E COM SEMENTES BEM PRETINHAS?</cabeceira>
+            <forma>0</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[MELANCIA]]></texto>
+        </paxina>
+        <paxina id="15" >
+              <tipo>1</tipo>
+              <cabeceira>ESCOLHA UMA:</cabeceira>
+              <imaxe>FRUTAS_E_LEGUMES3.jpg</imaxe>
+              <texto>QUAL DOS ITENS ESCRITOS ABAIXO SÃO FRUTAS</texto>
+              <resp texto="" valor="0">BERINJELA</resp>
+              <resp texto="" valor="1">TOMATE</resp>
+              <resp texto="" valor="1">AMEIXA</resp>
+              <resp texto="" valor="0">COUVE-FLOR</resp>
+        </paxina>
+        <paxina id="16" >
+              <tipo>24</tipo>
+              <cabeceira>QUAL DOS ITENS ABAIXO NÃO É FRUTA</cabeceira>
+              <etiqueta imaxe="ACAI1.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="ACEROLA2.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="BIRIBA.JPG" texto="">0</etiqueta>
+              <etiqueta imaxe="GOIABA.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="REPOLHO.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="TOMATE.jpg" texto="">0</etiqueta>
+              <cfondo>D3CFFE</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>24</tipo>
+              <cabeceira>SELECIONE APENAS AS FRUTAS:</cabeceira>
+              <etiqueta imaxe="ASSAI3.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="ACEROLA.JPG" texto="">1</etiqueta>
+              <etiqueta imaxe="BIRIBA.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="GOIABA.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="FRANBOESA2.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="TOMATE.jpg" texto="">1</etiqueta>
+              <cfondo>D3CFFE</cfondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>20</tipo>
+              <cabeceira>COCLOQUE O NOME DAS FRUTAS:</cabeceira>
+              <imaxe>FRUTAS.JPG</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="5" posy="65">CUPUAÇÚ</etiqueta>
+              <etiqueta posx="4" posy="244">BURITI</etiqueta>
+              <etiqueta posx="259" posy="196">BIRIBÁ</etiqueta>
+              <etiqueta posx="3" posy="188">CACAU</etiqueta>
+              <etiqueta posx="259" posy="237">CARAMBOLA</etiqueta>
+              <etiqueta posx="261" posy="84">CAJÁ MANGA</etiqueta>
+        </paxina>
+        <paxina id="19" >
+              <tipo>20</tipo>
+              <cabeceira>COCLOQUE O NOME DAS FRUTAS:</cabeceira>
+              <imaxe>FRUTAS.JPG</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="5" posy="65">CUPUAÇÚ</etiqueta>
+              <etiqueta posx="4" posy="244">BURITI</etiqueta>
+              <etiqueta posx="259" posy="196">BIRIBÁ</etiqueta>
+              <etiqueta posx="3" posy="188">CACAU</etiqueta>
+              <etiqueta posx="259" posy="237">CARAMBOLA</etiqueta>
+              <etiqueta posx="261" posy="84">CAJÁ MANGA</etiqueta>
+        </paxina>
+        <paxina id="20" >
+              <tipo>20</tipo>
+              <cabeceira>ESCREVA O NOME DAS FRUTAS:</cabeceira>
+              <imaxe>FRUTAS.JPG</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="5" posy="65">CUPUAÇÚ</etiqueta>
+              <etiqueta posx="4" posy="244">BURITI</etiqueta>
+              <etiqueta posx="259" posy="196">BIRIBÁ</etiqueta>
+              <etiqueta posx="3" posy="188">CACAU</etiqueta>
+              <etiqueta posx="259" posy="237">CARAMBOLA</etiqueta>
+              <etiqueta posx="261" posy="84">CAJÁ MANGA</etiqueta>
+        </paxina>
+        <paxina id="21" >
+              <tipo>30</tipo>
+              <cabeceira>COCLOQUE O NOME DAS FRUTAS:</cabeceira>
+              <imaxe posx="0" posy="0">FRUTAS2.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="9" posy="141">LARANJA</etiqueta>
+              <etiqueta posx="151" posy="25">LIMÃO</etiqueta>
+              <etiqueta posx="292" posy="127">MELANCIA</etiqueta>
+              <etiqueta posx="0" posy="289">MORANGO</etiqueta>
+              <etiqueta posx="149" posy="225">MAMÃO</etiqueta>
+              <etiqueta posx="296" posy="285">MARACUJÁ</etiqueta>
+        </paxina>
+        <paxina id="22" >
+              <tipo>30</tipo>
+              <cabeceira>ESCREVA O NOME DAS FRUTAS:</cabeceira>
+              <imaxe posx="0" posy="0">FRUTAS21.jpg</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="9" posy="141">LARANJA</etiqueta>
+              <etiqueta posx="151" posy="25">LIMÃO</etiqueta>
+              <etiqueta posx="292" posy="127">MELANCIA</etiqueta>
+              <etiqueta posx="0" posy="289">MORANGO</etiqueta>
+              <etiqueta posx="149" posy="225">MAMÃO</etiqueta>
+              <etiqueta posx="296" posy="285">MARACUJÁ</etiqueta>
+        </paxina>
+        <paxina id="23" >
+              <tipo>8</tipo>
+              <cabeceira>DIGITE A SILABA QUE COMPLETE O NOME DE CADA FRUTA:</cabeceira>
+              <frase texto="PESSE" son="">GO</frase>
+              <frase texto="MARACU" son="">JÁ</frase>
+              <frase texto="ABOBO" son="">RA</frase>
+        </paxina>
+        <paxina id="24" >
+              <tipo>11</tipo>
+              <cabeceira>ESCREVA O NOME DAS FRUTAS</cabeceira>
+              <modo>3</modo>
+              <cousa nome="CAQUI">kaqui.jpg</cousa>
+              <cousa nome="GOIABA">GOIABA.jpg</cousa>
+              <cousa nome="AÇAÍ">ACAI2.jpg</cousa>
+              <cousa nome="FRAMBOESA">framboesa.jpg</cousa>
+              <cousa nome="ACEROLA">ACEROLA.JPG</cousa>
+        </paxina>
+        <paxina id="25" >
+              <tipo>44</tipo>
+              <cabeceira>RELACIONE O NOME A CADA FRUTA</cabeceira>
+              <cousa nome="LARANJA" son="">laranja.jpg</cousa>
+              <cousa nome="ABACATE" son="">ABACATE.jpg</cousa>
+              <cousa nome="ACEROLA" son="">ACEROLA.JPG</cousa>
+        </paxina>
+        <paxina id="26" >
+              <tipo>35</tipo>
+              <cabeceira>COLOQUE EM ORDEM ALFABÉTICA</cabeceira>
+              <forma>0</forma>
+              <completa>ABOBRINHA.jpeg</completa>
+              <completa>BIRIBA.JPG</completa>
+              <completa>CAJU.jpg</completa>
+              <completa>GOIABA.jpg</completa>
+              <completa>REPOLHO.jpg</completa>
+        </paxina>
+        <paxina id="27" >
+              <tipo>43</tipo>
+              <imaxe>ACEROLA.JPG</imaxe>
+              <texto>FRUTA REGIONAL MUITO UTILIZADA PARA FAZER SUCO</texto>
+              <completa post="AEIOUD">ACEROLA</completa>
+        </paxina>
+        <paxina id="28" >
+              <tipo>19</tipo>
+              <imaxe alt="ASDFGHJ">GOIABA.jpg</imaxe>
+              <texto><![CDATA[ENCONTRADA EM QUASE TODAS AS REGIÕES DO BRASIL]]></texto>
+              <resp texto="ASDFGHJKLOIUECB">GOIABA</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="29" >
+              <tipo>17</tipo>
+              <parellas>ABACATE.jpg</parellas>
+              <parellas>laranja.jpg</parellas>
+              <parellas>FRUTAS.JPG</parellas>
+              <parellas>SALADAS1_DE_FRUTAS.jpg</parellas>
+              <parellas>REPOLHO.jpg</parellas>
+              <parellas>TOMATE.jpg</parellas>
+              <cfondo>B1FEB6</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="30" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="" texto="AÇAÍ">ACAI3.jpg</parellas>
+              <parellas imaxe="" texto="BANANA">BANANA.jpg</parellas>
+              <parellas imaxe="" texto="GOIABA">GOIABA.jpg</parellas>
+              <parellas imaxe="" texto="ACEROLA">ACEROLA.JPG</parellas>
+              <parellas imaxe="" texto="CHUCHU">chuchu.jpg</parellas>
+              <parellas imaxe="" texto="LARANJA">laranja.jpg</parellas>
+              <cfondo>B1FEB6</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>120</tempo>
+        </paxina>
+        <paxina id="31" >
+              <tipo>10</tipo>
+              <imaxe>SALADA2_FRUTA.jpg</imaxe>
+              <pregunta res="LARANJA">FRUTA DA LARANJEIRA?</pregunta>
+        </paxina>
+        <paxina id="32" >
+              <tipo>37</tipo>
+              <texto><![CDATA[1 FRUTA COM UM GRANDE CAROÇO ENCONTRADA EM TODO LUGAR
+2 PRODUZ UM SUCO CALMANTE
+3 DELA É FEITO UM SUCO RICO EM VITAMINA C 
+4 POLPA DE UMA FRUTA NATIVA DA REGIÃO
+5 EXISTEM GRANDES E PEQUENAS SUA PLANTA É EM RAMA
+6 USADO NO TEMPERO DE VARIAS SALADAS PODENDO TAMBÉM SER CONSUMINA DIRETAMENTE, POREM MUITO ACIDA E AZEDO.]]></texto>
+              <completa>MANGA</completa>
+              <completa>MARACUJA</completa>
+              <completa>ACEROLA</completa>
+              <completa>AÇAÍ</completa>
+              <completa>ABOBORA</completa>
+              <completa>LIMÃO</completa>
+        </paxina>
+        <paxina id="33" >
+              <tipo>3</tipo>
+              <imaxe>GOIABA.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="34" >
+              <tipo>5</tipo>
+              <cabeceira>DESCUBRA A FRUTA QUE ESTÁ ESCONDIDAE ESCREVA SEU NOME:</cabeceira>
+              <imaxe>SALADA3FRUTA.jpg</imaxe>
+              <imfondo  posx="477" posy="8">CAJU1.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>CAJU</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="35" >
+              <tipo>36</tipo>
+              <cabeceira>DEIXE O SEGUNDO QUADRO IGUAL AO PRIMEIRO</cabeceira>
+              <forma>2</forma>
+        </paxina>
+        <paxina id="36" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="framboesa.jpg">FRAMBOESA</sopa>
+              <sopa enun="chuchu.jpg">CHUCHU</sopa>
+              <sopa enun="GOIABA.jpg">GOIABA</sopa>
+              <sopa enun="kaqui.jpg">CAQUI</sopa>
+              <sopa enun="REPOLHO.jpg">REPOLHO</sopa>
+              <sopa enun="TOMATE.jpg">TOMATE</sopa>
+              <sopa enun="ACEROLA.JPG">ACEROLA</sopa>
+              <sopa enun="BIRIBA.JPG">BIRIBÁ</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>ÁBCDEFGHIJKLMNOPQRSTUVWXYZÉÍ</fondo>
+        </paxina>
+        <paxina id="37" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="ABACATE">ABACATE</sopa>
+              <sopa enun="REPOLHO">REPOLHO</sopa>
+              <sopa enun="CAJÚ">CAJÚ</sopa>
+              <sopa enun="BANANA">BANANA</sopa>
+              <sopa enun="PEPINO">PEPINO</sopa>
+              <sopa enun="ABOBORA">ABOBORA</sopa>
+              <sopa enun="GOIABA">GOIABA</sopa>
+              <sopa enun="MAÇÁ">MAÇÃ</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>ÁBCDEFGHIJKYZÉÍ</fondo>
+        </paxina>
+        <paxina id="38" >
+              <tipo>29</tipo>
+              <cabeceira>ABAIXO TEM ALIMENTOS MUITO SAUDÁVEIS SELECIONE 10QUE SÃO AS FRUTA ENTRE ELES</cabeceira>
+              <texto><![CDATA[#ABACATE,# COUVE, #MAÇÃ,# #BANANA,# #DAMASCO,# BRÓCOLIS, BETERRABA, REPOLHO, CENOURA, COUVE FLOR, ALHO, #UVA,# #COCO,# OVOS, AVEIA, #LARANJA,# #BANANA,# #LIMÃO,# ABOBORA, ESPINAFRE, BATATA DOCE, #MELANCIA#]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>0</modo>
+              <forma>16</forma>
+        </paxina>
+    </libro>
+</lim>
